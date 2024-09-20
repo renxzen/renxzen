@@ -8,4 +8,4 @@ Primary focus is on learning as much as i possibly can.
 
 - 💼 **Current Role:** Software Engineer at BBVA
 - 🌍 **Location:** Lima, Perú
-- 💻 **Expertise:** Software Development, Data Analysis, Machine Learning, FinTech
+- 💻 **Expertise:** Software Development, Machine Learning, Linux
