@@ -3,9 +3,8 @@
 
 ### 🌐 About Me
 
-Computer scientist currently working at a leading bank in Latin America.
-Primary focus is on learning as much as i possibly can.
+Computer scientist. Primary focus is on learning as much as i possibly can.
 
-- 💼 **Current Role:** Software Engineer at BBVA
+- 💼 **Current Role:** Software Engineer
 - 🌍 **Location:** Lima, Perú
 - 💻 **Expertise:** Software Development, Machine Learning, Linux
